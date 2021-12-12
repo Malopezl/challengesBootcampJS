@@ -71,6 +71,7 @@ function restrictions(digitos) {
 }
 
 restrictions("23");
+// restrictions("32");
 // restrictions("79");
 // restrictions("1");
 // restrictions("10");
